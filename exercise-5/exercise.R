@@ -2,7 +2,7 @@
 
 # Read in the female baby names data file found in the `data` folder into a 
 # variable called `names`. Remember to NOT treat the strings as factors!
-
+name <- import(csv)
 
 # Create a data frame `names_2013` that contains only the rows for the year 2013
 
